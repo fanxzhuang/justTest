@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="KindEditor"
+  id="myeclipse.1429771177804"
+  context-root="/KindEditor"
+  j2ee-spec="5.0"
+  archive="KindEditor.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
